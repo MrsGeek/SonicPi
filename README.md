@@ -1,7 +1,7 @@
 SonicPi
 =======
 
-Sonic Pi code for various songs - not necessarily correct!
+Sonic Pi code for my fav electro house song - not necessarily correct!
 
 #Electro House 1
 
